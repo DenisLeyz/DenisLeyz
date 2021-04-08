@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Denis Leyzerukov! I'm a UX/UI Researcher & Designer.
 - 👀 I’m interested in Deep Learning, Finance, Music Production, and UX (obviously).
-- 🌱 I’m currently learning about better and more accurate ways of conducting user-oriented research.
+- 🌱 I’m currently learning two things:
+-                                      1. better and more accurate ways of conducting user-oriented research.
+-                                      2. Fundamental Financial Analysis & Options Trading
 - 💞️ I’m looking to collaborate on projects that are meants to benefit humans!
 - 📫 How to reach me:
 
